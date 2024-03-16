@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    padding: 30px;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    color: rgb(63, 59, 59);
+}
+
+button{
+    width: 110px;
+    font-size: 16px;
+}
+
+h2{
+    text-align: center;
+}
+
+#timerId{
+    font-size: 50px;
+    margin-left: 70px;
+}
+
+#dateId {
+    width: 100%;
+}
